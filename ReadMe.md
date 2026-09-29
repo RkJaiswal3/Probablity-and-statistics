@@ -18,6 +18,13 @@ The goal of this project is to understand basic statistical concepts by analyzin
 - BMI analysis
 - Correlation
 - Basic Probability
+- Conditional Probability
+- Normal Distribution
+- Z-Score
+- Sampling Concepts
+- Hypothesis Testing
+- T-Test & P-Value
+- Statistical Interpretation
 
 ## 🛠️ Technologies
 
@@ -35,15 +42,15 @@ The goal of this project is to understand basic statistical concepts by analyzin
 healthcare-statistics-probability/
 │
 ├── data/
-│   └── healthcare.csv
+│   └── rawData.csv
 │
 ├── notebooks/
-│   └── healthcare_statistics.ipynb
+│   └── eda_stat.ipynb
 │
 ├── visualizations/
-│   ├── age_distribution.png
-│   ├── bmi_distribution.png 
-│   └── correlation.png
+│   ├── distribution_under_age.png
+│ 
+│  
 │
 ├── requirements.txt
 ├── README.md
